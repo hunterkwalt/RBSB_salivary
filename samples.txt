@@ -1,0 +1,17 @@
+sample
+acc_new_female
+acc_new_male
+acc_old_female
+acc_old_male
+carc_new_female
+carc_new_male
+carc_old_female
+carc_old_male
+main_old_female
+main_old_male
+prin_new_female
+prin_new_male
+walt_new_female
+walt_new_male
+walts_old_female
+walts_old_male
